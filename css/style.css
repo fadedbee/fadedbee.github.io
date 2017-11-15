@@ -151,10 +151,10 @@ body {
 .logo {
   width: 94px;
   height: 57px;
-  background-image: url("images/logo.png");
-  -webkit-background-size: 74px 28px;
-  -moz-background-size: 74px 28px;
-  background-size: 74px 28px;
+  background-image: url("/img/fadedbee64.png");
+  -webkit-background-size: 64px 64px;
+  -moz-background-size: 64px 64px;
+  background-size: 64px 64px;
   background-position: left center;
   background-repeat: no-repeat;
 }
